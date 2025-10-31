@@ -30,9 +30,9 @@
 <p>
   Soy un <b>Desarrollador Full Stack Junior</b> y <b>Bachiller en Ingeniería de Sistemas</b> de la UNTELS.
   <br><br>
-  Actualmente, desarrollo en el backend como <b>Software Developer Junior</b> en <b>LatamReady</b> (Partner de Oracle NetSuite), especializándome en <code>SuiteScript 2.1</code>. Mi pasión por las soluciones completas también me lleva al frontend, donde disfruto creando visualizaciones de datos interactivas con <code>Leaflet</code> y <code>Chart.js</code>.
+  Mi experiencia reciente en <b>LatamReady</b> (Partner de Oracle NetSuite) me especializó en el backend con <code>SuiteScript 2.1</code>. Como Full Stack, complemento esta habilidad con mi pasión por el frontend, creando visualizaciones de datos interactivas con <code>Leaflet</code> y <code>Chart.js</code>.
   <br><br>
-  Mi mayor logro es ser ponente en el <b>International Astronautical Congress (IAC 2025)</b> en Sídney, donde presentaré software de simulación de diseño propio.
+  Este mes (Octubre 2025), estoy presentando mi software de simulación de diseño propio en el <b>International Astronautical Congress (IAC 2025)</b> en Sídney.
 </p>
 
 <br clear="right"/> ---
