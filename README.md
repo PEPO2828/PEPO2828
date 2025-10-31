@@ -28,11 +28,9 @@
 
 <h3>📝 Sobre Mí</h3>
 <p>
-  Soy un <b>Desarrollador Full Stack Junior</b> y <b>Bachiller en Ingeniería de Sistemas</b> de la UNTELS.
+  Este mes (Octubre 2025), estoy en Sídney presentando mi software de simulación y SIEM en el <b>International Astronautical Congress (IAC 2025)</b>.
   <br><br>
-  Mi experiencia reciente en <b>LatamReady</b> (Partner de Oracle NetSuite) me especializó en el backend con <code>SuiteScript 2.1</code>. Como Full Stack, complemento esta habilidad con mi pasión por el frontend, creando visualizaciones de datos interactivas con <code>Leaflet</code> y <code>Chart.js</code>.
-  <br><br>
-  Este mes (Octubre 2025), estoy presentando mi software de simulación de diseño propio en el <b>International Astronautical Congress (IAC 2025)</b> en Sídney.
+  Soy un <b>Desarrollador Full Stack Junior</b> (Bachiller en Ing. de Sistemas, UNTELS). Mi experiencia profesional incluye desarrollo backend para ERPs (<code>SuiteScript 2.1</code> en LatamReady), y un portafolio de proyectos frontend enfocado en visualización de datos (<code>Leaflet</code>) y dashboards (<code>Chart.js</code>).
 </p>
 
 <br clear="right"/> ---
