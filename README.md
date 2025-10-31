@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Vistas del Perfil" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PEPO2828&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Vistas&edge_flat=false">
+  <img alt="Vistas del Perfil" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PEPO2828&count_bg=%233B79C4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Vistas&edge_flat=false">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="URL_DE_TU_LINKEDIN_AQUI">
+  <a href="www.linkedin.com/in/victor-raul-huaman-simeon-875800215">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://pepo2828.github.io/Portafolio/">
