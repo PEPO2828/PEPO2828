@@ -32,7 +32,7 @@
   <br><br>
   Tengo experiencia profesional en backend para ERPs (<code>SuiteScript 2.1</code> en LatamReady) y un portafolio de proyectos frontend enfocados en visualización de datos (<code>Leaflet</code>, <code>Chart.js</code>).
   <br><br>
-  Como ponente en el <b>International Astronautical Congress (IAC 2025)</b>, presenté dos softwares (con papers) sobre simulación de agua y SIEM en la industria espacial. Siempre estoy abierto a aprender nuevas tecnologías y enfrentar nuevos retos.
+  Participé como ponente en el <b>International Astronautical Congress (IAC 2025)</b>, donde presenté dos trabajos de investigación con software. Estoy siempre abierto a aprender nuevas tecnologías y enfrentar nuevos retos.
 </p>
 
 <br clear="right"/> ---
