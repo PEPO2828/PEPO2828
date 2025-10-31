@@ -27,13 +27,15 @@
 <img align='right' src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="400">
 
 <h3>📝 Sobre Mí</h3>
-<ul>
-  <li>Ponente aceptado en el <b>International Astronautical Congress (IAC 2025)</b> en Sídney.</li>
-  <li>Software Developer Junior en <b>LatamReady</b> (Oracle NetSuite Partner), especializado en SuiteScript 2.1.</li>
-  <li>Bachiller en Ingeniería de Sistemas por la <b>UNTELS</b>.</li>
-  <li>Enfocado en visualización de datos (<b>Chart.js, Power BI</b>) y mapas en tiempo real (<b>Leaflet</b>).</li>
-  <li>Interesado en colaborar en proyectos <b>Open Source</b> y aprender sobre <b>Clean Architecture</b> e <b>IA</b>.</li>
-</ul>
+<p>
+  Soy un <b>Desarrollador Full Stack Junior</b> y <b>Bachiller en Ingeniería de Sistemas</b> de la UNTELS.
+  <br><br>
+  Mi rol actual es <b>Software Developer Junior</b> en <b>LatamReady</b> (Partner de Oracle NetSuite), donde aplico mis habilidades de backend especializándome en <code>SuiteScript 2.1</code>.
+  <br><br>
+  Me apasiona construir soluciones completas e interactivas, desde el frontend (con <code>Leaflet</code>, <code>Chart.js</code>) hasta la lógica de negocio.
+  <br><br>
+  Mi mayor logro es ser ponente en el <b>International Astronautical Congress (IAC 2025)</b> en Sídney, donde presentaré software de simulación de diseño propio.
+</p>
 
 <br clear="right"/> ---
 
