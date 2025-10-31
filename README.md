@@ -63,24 +63,3 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
-
----
-
-### 📊 Mi Actividad
-
-<details>
-  <summary><b>💻 Estadísticas de GitHub</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PEPO2828&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEPO2828&layout=compact&theme=tokyonight" alt="Top Lenguajes"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Contribuciones (Snake)</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/PEPO2828/PEPO2828/output/snake.svg" alt="Snake"/>
-  </p>
-</details>
