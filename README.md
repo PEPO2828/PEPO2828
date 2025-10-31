@@ -28,9 +28,11 @@
 
 <h3>📝 Sobre Mí</h3>
 <p>
-  Este mes (Octubre 2025), estoy en Sídney presentando mi software de simulación y SIEM en el <b>International Astronautical Congress (IAC 2025)</b>.
+  Soy un <b>Desarrollador Full Stack Junior</b> (Bachiller en Ing. de Sistemas, UNTELS).
   <br><br>
-  Soy un <b>Desarrollador Full Stack Junior</b> (Bachiller en Ing. de Sistemas, UNTELS). Mi experiencia profesional incluye desarrollo backend para ERPs (<code>SuiteScript 2.1</code> en LatamReady), y un portafolio de proyectos frontend enfocado en visualización de datos (<code>Leaflet</code>) y dashboards (<code>Chart.js</code>).
+  Tengo experiencia profesional en backend para ERPs (<code>SuiteScript 2.1</code> en LatamReady) y un portafolio de proyectos frontend enfocados en visualización de datos (<code>Leaflet</code>, <code>Chart.js</code>).
+  <br><br>
+  Como ponente en el <b>International Astronautical Congress (IAC 2025)</b>, presenté dos softwares (con papers) sobre simulación de agua y SIEM en la industria espacial. Siempre estoy abierto a aprender nuevas tecnologías y enfrentar nuevos retos.
 </p>
 
 <br clear="right"/> ---
