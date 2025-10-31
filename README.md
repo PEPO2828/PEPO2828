@@ -1,44 +1,41 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
-  <h1 align="center">Hola 👋, soy Victor Huaman Simeon</h1>
-  <h3 align="center">Junior Full Stack Developer | Ponente Internacional (IAC 2025 Sídney) 🛰️</h3>
-  <p align="center">
-    <a href="URL_DE_TU_LINKEDIN_AQUI">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://pepo2828.github.io/Portafolio/">
-      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="mailto:victorhuamansimeon@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-  <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPEPO2828&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Visitor Count"/>
-  </p>
-</div>
+<h1 align="center">
+  Hola, soy Victor Huaman Simeon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+</h1>
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      <div id="bio">
-        <h3>📝 Sobre Mí</h3>
-        <ul>
-          <li>Ponente aceptado en el <b>International Astronautical Congress (IAC 2025)</b> en Sídney.</li>
-          <li>Software Developer Junior en <b>LatamReady</b> (Oracle NetSuite Partner), especializado en SuiteScript 2.1.</li>
-          <li>Bachiller en Ingeniería de Sistemas por la <b>UNTELS</b>.</li>
-          <li>Enfocado en visualización de datos (<b>Chart.js, Power BI</b>) y mapas en tiempo real (<b>Leaflet</b>).</li>
-          <li>Interesado en colaborar en proyectos <b>Open Source</b> y aprender sobre <b>Clean Architecture</b> e <b>IA</b>.</li>
-        </ul>
-      </div>
-    </td>
-    <td valign="top" width="30%">
-      <div id="gif">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="Coding GIF" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img alt="Vistas del Perfil" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PEPO2828&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Vistas&edge_flat=false">
+</p>
+
+<p align="center">
+  <b>Junior Full Stack Developer | Ponente Internacional (IAC 2025 Sídney) 🛰️</b>
+</p>
+
+<p align="center">
+  <a href="URL_DE_TU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pepo2828.github.io/Portafolio/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:victorhuamansimeon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<img align='right' src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="400">
+
+<h3>📝 Sobre Mí</h3>
+<ul>
+  <li>Ponente aceptado en el <b>International Astronautical Congress (IAC 2025)</b> en Sídney.</li>
+  <li>Software Developer Junior en <b>LatamReady</b> (Oracle NetSuite Partner), especializado en SuiteScript 2.1.</li>
+  <li>Bachiller en Ingeniería de Sistemas por la <b>UNTELS</b>.</li>
+  <li>Enfocado en visualización de datos (<b>Chart.js, Power BI</b>) y mapas en tiempo real (<b>Leaflet</b>).</li>
+  <li>Interesado en colaborar en proyectos <b>Open Source</b> y aprender sobre <b>Clean Architecture</b> e <b>IA</b>.</li>
+</ul>
+
+<br clear="right"/> ---
 
 ### 💻 Stack de Tecnologías
 
@@ -67,10 +64,12 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
+---
+
 ### 📊 Mi Actividad
 
 <details>
-  <summary>Estadísticas de GitHub</summary>
+  <summary><b>💻 Estadísticas de GitHub</b></summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=PEPO2828&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub"/>
@@ -79,7 +78,7 @@
 </details>
 
 <details>
-  <summary>Contribuciones (Snake)</summary>
+  <summary><b>⚡ Contribuciones (Snake)</b></summary>
   <br>
   <p align="center">
     <img src="https://raw.githubusercontent.com/PEPO2828/PEPO2828/output/snake.svg" alt="Snake"/>
